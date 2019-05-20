@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700&display=swap');
+
+body, html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+body, html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#product-overview {
+    background: #ff1b68;
+}
+
+.section-title {
+    color: #2ddf5c;
+}
+
+h1 {
+    color: white;    
+}
